@@ -56,8 +56,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-    <a href="https://inertiajs.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/45696122?s=200&v=4" alt="inertia" width="40" height="40"/>
+  <a href="https://inertiajs.com/" target="_blank" rel="noreferrer">
+    <img src="https://inertiajs.com/favicon-32x32.png" alt="inertia" width="40" height="40"/>
   </a>
 </p>
 
@@ -68,7 +68,7 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40"/>
   </a>
 </p>
 
