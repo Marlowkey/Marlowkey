@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://inertiajs.com/" target="_blank" rel="noreferrer">
-    <img src="https://inertiajs.com/favicon-32x32.png" alt="inertia" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/45696122?s=200&v=4" alt="inertia" width="40" height="40"/>
   </a>
 </p>
 
