@@ -10,9 +10,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/marlo-badinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marlo-badinas" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<!-- Languages -->
 <h4 align="left">Languages:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
