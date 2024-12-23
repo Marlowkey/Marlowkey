@@ -11,8 +11,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<!-- Languages -->
+<h4 align="left">Languages:</h4>
 <p align="left">
-  <!-- Languages -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   </a> 
@@ -34,8 +36,11 @@
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Frameworks -->
+<!-- Frameworks -->
+<h4 align="left">Frameworks:</h4>
+<p align="left">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
@@ -48,8 +53,11 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Libraries/Databases -->
+<!-- Libraries/Databases -->
+<h4 align="left">Libraries/Databases:</h4>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -62,8 +70,11 @@
   <a href="https://inertiajs.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45696122?s=200&v=4" alt="inertia" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Tools -->
+<!-- Tools -->
+<h4 align="left">Tools:</h4>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -80,4 +91,5 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
+
 
