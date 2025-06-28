@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Marlo Badinas</h1>
-<h3 align="center">
-  I am an Information Technology student, currently halfway through my degree. While I am expanding my knowledge in both back-end and front-end development, my primary focus is on back-end technologies. My goal is to strengthen my expertise in back-end development, enhance my problem-solving skills, and explore emerging technologies in this field.
-</h3>
 
 - 🌱 I’m currently learning **Typescript, Nodejs**
 
